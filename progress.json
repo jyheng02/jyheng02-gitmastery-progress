@@ -9,15 +9,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "branch-delete",
-    "started_at": 1756130089.612756,
-    "completed_at": 1756130090.511296,
-    "comments": [
-      "Great job using git branch to delete both merged and unmerged branches!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "branch-rename",
     "started_at": 1756118591.027164,
     "completed_at": 1756118591.666255,
